@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project artifacts
+catboost_info/
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
